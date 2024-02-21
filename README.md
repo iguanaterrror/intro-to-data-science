@@ -1,1 +1,2 @@
-# intro-to-data-science
+# Introduction to data science
+Solutions for problems from my classes
